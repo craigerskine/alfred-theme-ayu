@@ -1,0 +1,2 @@
+# alfred-theme-ayu
+
