@@ -1,6 +1,6 @@
 # alfred-theme-ayu
 
-![theme](https://user-images.githubusercontent.com/56437/144055852-ecff1b52-6aff-4ab1-b6a9-8c49f83199fe.png)
+![theme](https://github.com/user-attachments/assets/86c12107-0a61-4781-9613-2f3f8468d5cc)
 
 ---
 
