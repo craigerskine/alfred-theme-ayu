@@ -22,13 +22,13 @@
         "color" : "#FFFFFF4C"
       },
       "iconPaddingHorizontal" : 5,
-      "roundness" : 5,
+      "roundness" : 9,
       "paddingVertical" : 5,
       "iconSize" : 48
     },
     "search" : {
       "backgroundSelected" : "#00000054",
-      "paddingHorizontal" : 5,
+      "paddingHorizontal" : 0,
       "spacing" : 0,
       "text" : {
         "size" : 36,
@@ -37,28 +37,28 @@
         "color" : "#D3DAE5A8"
       },
       "background" : "#11151900",
-      "roundness" : 0,
-      "paddingVertical" : 5
+      "roundness" : 9,
+      "paddingVertical" : 8
     },
     "window" : {
       "color" : "#242836E5",
-      "paddingHorizontal" : 8,
+      "paddingHorizontal" : 16,
       "width" : 500,
       "borderPadding" : 0,
       "borderColor" : "#FFFFFF00",
       "blur" : 0,
-      "roundness" : 5,
-      "paddingVertical" : 5
+      "roundness" : 18,
+      "paddingVertical" : 8
     },
     "credit" : "Craig Erskine",
     "visualEffectMode" : 2,
     "separator" : {
       "color" : "#00000000",
-      "thickness" : 5
+      "thickness" : 8
     },
     "scrollbar" : {
       "color" : "#FFFFFF19",
-      "thickness" : 1
+      "thickness" : 8
     },
     "name" : "Ayu Mirage"
   }
