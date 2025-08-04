@@ -23,25 +23,25 @@
       },
       "iconPaddingHorizontal" : 5,
       "roundness" : 9,
-      "paddingVertical" : 5,
+      "paddingVertical" : 4,
       "iconSize" : 48
     },
     "search" : {
-      "backgroundSelected" : "#00000054",
+      "backgroundSelected" : "#00000040",
       "paddingHorizontal" : 0,
       "spacing" : 0,
       "text" : {
         "size" : 36,
-        "colorSelected" : "#D3DAE5A8",
+        "colorSelected" : "#D3DAE57F",
         "font" : "System Light",
-        "color" : "#D3DAE5A8"
+        "color" : "#D3DAE57F"
       },
       "background" : "#11151900",
       "roundness" : 9,
       "paddingVertical" : 8
     },
     "window" : {
-      "color" : "#242836E5",
+      "color" : "#242836F1",
       "paddingHorizontal" : 16,
       "width" : 500,
       "borderPadding" : 0,
@@ -51,7 +51,6 @@
       "paddingVertical" : 8
     },
     "credit" : "Craig Erskine",
-    "visualEffectMode" : 2,
     "separator" : {
       "color" : "#00000000",
       "thickness" : 8
